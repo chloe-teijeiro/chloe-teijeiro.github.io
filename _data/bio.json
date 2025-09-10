@@ -1,26 +1,22 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Chloe Teijeiro",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/chloe-teijeiro.png",
+    "email": "chloet4@hawaii.edu",
+    "phone": "808-205-0828",
+    "website": "https://chloe-teijeiro.github.io",
+    "summary": "I graduated from the University of Hawaiʻi at West Oʻahu in Spring 2024 with a B.S. in Natural Science, with a concentration in Applied Mathematics. I am currently a Post-Baccalaureate Unclassified student taking Information and Computer Sciences courses at the University of Hawaiʻi at Manoa, and I intend to pursue a career as a data analyst.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "chloe-teijeiro", "url": "http://github.com/chloe-teijeiro" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/chloe-teijeiro-4a7619381/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Mathematics" },
+    { "name": "Puzzles" },
+    { "name": "Web Design" }
   ],
   "skills": [
     {
