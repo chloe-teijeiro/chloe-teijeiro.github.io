@@ -13,8 +13,8 @@ summary: "Adapting a python code to solve a pocket cube."
 ---
 
 <div class="text-center p-4">
-  <img width="700px" src="../img/beginning-pc-code.png" class="img-thumbnail" >
-  <img width="700px" src="../img/step-6-and-7-pccode.png" class="img-thumbnail" >
+  <img width="350px" src="../img/beginning-pc-code.png" class="img-thumbnail" >
+  <img width="350px" src="../img/step-6-and-7-pccode.png" class="img-thumbnail" >
 </div>
 
 When I received my Bachelor's Degree, my Senior Research Project was the highlight of my year. It explored the logic and algorithms behind a simple sequential move puzzle known as the Pocket Cube and the Rubik's Cube. The project outlined manual algorithms and analyzed the group theory behind each puzzle. The bulk of the work was using Replit to adapt a Python program that creates a step-by-step algorithm to manually solve a Pocket Cube. 
