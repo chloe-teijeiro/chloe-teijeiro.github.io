@@ -19,4 +19,4 @@ The practice WODs really help, and I appreciate the video solution that you can 
 
 ## Swimming Laps 
 
-I’m new to Typescript, but I can already see how it is useful for quick software design and development. I really love that it shows you errors as you write your code. I don’t understand why this isn’t a feature in all programming languages. I see Typescript as the diving platform to launch myself into the process and each WOD as a lap in my training to become a lifeguard, or at least a good swimmer.
+I’m new to Typescript, but I can already see how it is useful for software design and development. I really love that it shows you errors as you write your code. I don’t understand why this isn’t a feature in all programming languages. I see Typescript as the diving platform to launch myself into the process and each WOD as a lap in my training to become a lifeguard, or at least a good swimmer.
