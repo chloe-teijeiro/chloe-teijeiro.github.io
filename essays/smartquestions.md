@@ -26,4 +26,4 @@ You can view this example [here](https://stackoverflow.com/questions/33938594/ja
 
 ## A peck on the cheek
 
-In conclusion, I think the essay _How to Ask Questions the Smart Way_ is insightful and informative. While the writing style is a bit more aggressive than I’d prefer, I cannot disagree with their logic. No one is entitled to an answer, so the way you phrase your question can make all the difference. Please note that I tried to apply the acronym to this essay as well, because I didn’t want to be a “Luser” (that one’s for Eric Steven Raymond).
+In conclusion, I think the essay _How to Ask Questions the Smart Way_  is insightful and informative. While the writing style is a bit more aggressive than I’d prefer, I cannot disagree with their logic. No one is entitled to an answer, so the way you phrase your question can make all the difference. Please note that I tried to apply the acronym to this essay as well, because I didn’t want to be a “Luser” (that one’s for Eric Steven Raymond).
