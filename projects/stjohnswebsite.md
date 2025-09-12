@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/stjohns_profile.jpg
+image: img/stjohns/stjohns_profile.jpg
 title: "St. John Apostle & Evangelist Church Website"
 date: 2025-03-05
 published: true
@@ -10,7 +10,7 @@ labels:
 summary: "Part of the design and development team for a church website."
 ---
 
-<img class="img-fluid" src="../img/solutio-screenshot.png">
+<img class="img-fluid" src="../img/stjohns/solutio-screenshot.png">
 
 I recently worked as part of a team to design and build a website for Saint John Apostle and Evangelist Catholic Church. Our goal was to create a clear and easy-to-navigate site that would help parishioners find information and connect with ministries. We used Solutio Software, which is a company that builds templated, customizable websites for Catholic churches and dioceses. Together, we designed the website's layout, tabs, and submenus. 
 
