@@ -11,6 +11,7 @@ labels:
   - Marketing Materials
 summary: "Creating promotional materials for a local entertainer."
 ---
+
 <img width="400px" class="rounded float-start pe-4" src="../img/chris-da-clown-flyers/Easter_profile.png">
 
 One of the more colorful projects I have been working on is a series of promotional flyers for a local children's entertainer. I design and create flyers for email campaigns, online advertising, and social media posts. The goal is to create eye-catching and easy-to-understand advertisements that don’t require a lot of reading. The idea is to plant the seed and provide follow-up contact information.
