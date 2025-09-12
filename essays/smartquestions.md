@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "K.I.S.S. (Keep It Simple Stupid)"
 # All dates must be YYYY-MM-DD format!
-date: 2025-09-11
+date: 2025-09-12
 published: true
 labels:
   - Smart Questions
