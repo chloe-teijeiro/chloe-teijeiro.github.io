@@ -21,11 +21,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": ["Java", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows 11", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -37,56 +37,40 @@
       "endDate": "2024",
       "courses": [
       ]
-    },
-    {
-      "institution": "American Renaissance Academy, Kapolei, HI",
-      "area": "General Education",
-      "studyType": "High School Diploma",
-      "startDate": "2016",
-      "endDate": "2020",
-      "courses": [
-      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "St. John Apostle & Evangelist Catholic Church",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Catechist Instructor",
+      "startDate": "2025-08-03",
+      "endDate": "Present",
+      "summary": "Teaching religious education for 6th - 12 grade.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Assist in creating lesson plans.",
+        "Make all calendars, flyers, and presentations."
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Graduated with Distinction",
+      "date": "2024",
+      "awarder": "University of Hawaiʻi at West Oʻahu",
+      "summary": "Conferred to graduates with a minimum UH West Oʻahu cumulative GPA of 3.75, including courses whose credits were not applicable to the degree."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Pueo RISE Applied Mathematician",
+      "date": "Spring 2024",
+      "awarder": "University of Hawaiʻi at West Oʻahu",
+      "summary": "Recognized for academic excellence and innovative application of mathematics within the Math, Natural, and Health Sciences Division at UH West O‘ahu."
+    },
+    {
+      "title": "Class Valedictorian",
+      "date": "2020",
+      "awarder": "American Renaissance Academy",
+      "summary": "Recognized as Class Valedictorian for achieving the highest academic standing in the graduating class of 2020."
     }
   ],
   "references": [
