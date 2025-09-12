@@ -20,4 +20,4 @@ While I don’t choose the subject of each promotion, I am in complete control o
 
 These projects have helped me to see the importance of first impressions. I’ve learned that something as simple as a contrast of colors can draw a person in or cause them to be indifferent. Also, while simplicity works, sometimes you have to add a few words to accurately present the message. Simple projects might seem straightforward, but the design creativity shines through in the details.
 
-You can view one of the storytelling flyers here: Chris Da Clown Springtime Balloon Storytelling Flyer
+You can view one of the storytelling flyers here: [Chris Da Clown Springtime Balloon Storytelling Flyer](/img/chris-da-clown-flyers/Balloon Storyingtelling Flyer - It's Not Easy Being a Bunny.pdf)
