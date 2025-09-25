@@ -13,7 +13,7 @@ labels:
 
 I look at coding standards like learning a foreign language. Just as grammar and sentence structure help you communicate clearly, coding standards help you to write clear and consistent code. In this analogy, ESLint is my tutor and translator. It doesn’t just point out my mistakes, it teaches me how to say things “the right way” in code. Over time, just like with any language, the rules start to become second nature. Coding standards begin to shape not just what you write, but how you think about structure, logic, and clarity. Just like learning a second language helps you better understand your first, learning to code with standards makes you more aware of what makes good code in general. When learning a new language, there are always challenges, but a good tutor can make all the difference. 
 
-<img width="450px" class="rounded float-start pe-4" src="../img/coding-standards/vscodescreen.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/coding-standards/vscodescreen.png">
 
 ## Muy bien
 
