@@ -34,7 +34,7 @@ Finally, the “C” layer appeared in my `dbActions.ts` file, where the `addRec
   <img width="400px" src="../img/cooking-with-code/c-layer.png">
 </div>
 
-While I understand that MVC is a formal design pattern, to me it feels like the natural way my mind organizes responsibilities. Each part has its place, just like ingredients and steps in a recipe
+While I understand that MVC is a formal design pattern, to me it feels like the natural way my mind organizes responsibilities. Each part has its place, just like ingredients and steps in a recipe.
 
 ## Get Cooking
 
