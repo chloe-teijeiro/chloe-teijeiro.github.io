@@ -25,7 +25,7 @@ My group project is a platform that helps college students find, share, and cook
 Then, the React component that collects user input (`AddRecipeForm.tsx`) clearly functions as the View by rendering fields, managing form state, and triggering the controller action with user data. The View is responsible for displaying information and collecting what the user types, without interacting with the database.
 
 <div align="center">
-  <img width="500px" src="../img/cooking-with-code/v-layer.png">
+  <img width="600px" src="../img/cooking-with-code/v-layer.png">
 </div>
 
 Finally, the “C” layer appeared in my `dbActions.ts` file, where the addRecipe function acted exactly like a Controller: receiving input from the UI, transforming data (such as splitting and trimming tag strings), and communicating with the database to store new recipes. The Controller is responsible for preparing and saving the data coming from the user so it can be used later.
