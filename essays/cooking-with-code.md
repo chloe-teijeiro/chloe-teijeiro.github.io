@@ -16,7 +16,7 @@ As someone learning to cook, I’ve discovered that good recipes are the foundat
 
 ## Club Oven Lovin'
 
-My group project is a platform that helps college students find, share, and cook affordable, easy-to-make meals using minimal kitchen resources. Looking at my part of the project, the most obvious design pattern I see is the Model-View-Controller (MVC) pattern. Prisma for the Model, React components as the View, and server actions as the Controller. The Model layer is shown clearly in the Recipe model defined in `schema.prisma`. The Model is responsible for defining what information a recipe contains.
+My group project is a platform that helps college students find, share, and cook affordable, easy-to-make meals using minimal kitchen resources. Looking at my part of the project, the most obvious design pattern I see is the Model-View-Controller (MVC) pattern. Prisma for the Model, React components as the View, and server actions as the Controller. The Model layer is shown clearly in the `Recipe` model defined in `schema.prisma`. The Model is responsible for defining what information a recipe contains.
 
 <div align="center">
   <img width="450px" src="../img/cooking-with-code/m-layer.png">
@@ -28,7 +28,7 @@ Then, the React component that collects user input (`AddRecipeForm.tsx`) clearly
   <img width="600px" src="../img/cooking-with-code/v-layer.png">
 </div>
 
-Finally, the “C” layer appeared in my `dbActions.ts` file, where the addRecipe function acted exactly like a Controller: receiving input from the UI, transforming data (such as splitting and trimming tag strings), and communicating with the database to store new recipes. The Controller is responsible for preparing and saving the data coming from the user so it can be used later.
+Finally, the “C” layer appeared in my `dbActions.ts` file, where the `addRecipe` function acted exactly like a Controller: receiving input from the UI, transforming data (such as splitting and trimming tag strings), and communicating with the database to store new recipes. The Controller is responsible for preparing and saving the data coming from the user so it can be used later.
 
 <div align="center">
   <img width="400px" src="../img/cooking-with-code/c-layer.png">
