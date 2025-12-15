@@ -12,7 +12,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/clockman.jpg">
 
-Estimating and tracking effort is a core software engineering practice, but it becomes far more complex once real development work begins. Throughout this project, I used GitHub project boards to estimate and record both coding and non-coding effort across multiple milestones. While my estimates were often inaccurate, the process helped me better understand my workflow, plan my time better, and improve future estimates.
+Estimating and tracking effort is a core software engineering practice, but it becomes far more complex once real development work begins. Throughout our project, I used GitHub project boards to estimate and record both coding and non-coding effort across multiple milestones. While my estimates were often inaccurate, the process helped me better understand my workflow, plan my time better, and improve future estimates.
 
 ## It’s not just a guess, it’s educated: Estimating Effort
 
