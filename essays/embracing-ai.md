@@ -18,7 +18,7 @@ Artificial intelligence (AI) has quickly become part of everyday learning, espec
 
 ### 1. Experience WODs
 
-For Experience WODs, I rarely used AI. When I did use it, it was usually during my first attempts and only to help clarify what the instructions were asking me to do or how to get started. For example, I would sometimes ask ChatGPT something like, “Here are the WOD instructions <WOD instructions>. Can you explain what step 4 is asking me to do in simpler terms?”
+For Experience WODs, I rarely used AI. When I did use it, it was usually during my first attempts and only to help clarify what the instructions were asking me to do or how to get started. For example, I would sometimes ask ChatGPT something like, “Here are the WOD instructions `<WOD instructions>`. Can you explain what step 4 is asking me to do in simpler terms?”
 
 However, I tried not to rely on AI during Experience WODs. My goal was to complete these WODs in an average time without AI so that I would be better prepared for in-class WODs, where time pressure is much higher. I also found that watching the instructional videos after my first attempt was more helpful than using AI, since the videos showed the steps visually and in order. Overall, AI was somewhat useful for clarification, but I intentionally limited its use because I wanted to build confidence in my own understanding first.
 
@@ -31,7 +31,7 @@ Later in the semester, I developed a system that worked much better. On my first
 
 I used AI in almost every in-class WOD, except for Nextjs 1. In total, I used ChatGPT in eight WODs. I tried Claude once during the TypeScript 3 WOD, but I did not like the results and returned to ChatGPT because I was more familiar with how it explained problems and generated solutions.
 
-My typical process during an in-class WOD was very structured. I would copy the full WOD instructions into ChatGPT, along with any extra details mentioned by the instructor. After receiving an initial solution, I would test the code and fix any errors I understood on my own. If I encountered errors I did not understand, I would paste the relevant code and error message and ask, "Here is my current code <current WOD code> and the error message<error message>. Please explain what the error means and how to fix it." Before submitting, I always asked ChatGPT to validate my work, using a prompt like, "<WOD code here> Does this code meet all the requirements? Here are the instructions: <WOD instructions here>".
+My typical process during an in-class WOD was very structured. I would copy the full WOD instructions into ChatGPT, along with any extra details mentioned by the instructor. After receiving an initial solution, I would test the code and fix any errors I understood on my own. If I encountered errors I did not understand, I would paste the relevant code and error message and ask, "Here is my current code `<current WOD code>` and the error message`<error message>`. Please explain what the error means and how to fix it." Before submitting, I always asked ChatGPT to validate my work, using a prompt like, "`<WOD code here>` Does this code meet all the requirements? Here are the instructions: `<WOD instructions here>`".
 
 This process was extremely useful. AI helped me generate a starting point, debug errors, and double-check requirements. Without AI, I believe I would have failed several WODs due to time constraints.
 
@@ -41,7 +41,7 @@ For essays, I used ChatGPT only as a checklist tool. I did not ask it to write c
 
 ### 5. Final Project
 
-I used ChatGPT consistently during my final project for both coding and non-coding tasks. My usual process was to explain the issue, paste the GitHub issue description, include relevant files, and add error messages if something was not working. For example, I might ask, "Here is my current code<current code here> and here is my end goal:<issue description here>. I am getting this error <error message>. What should I do?" AI typically accounted for half or less than half of the total effort on an issue. Most generated code required manual edits before being added to the project. Only one response, related to adding an inline edit feature for vendor ingredients, was used mostly as-is. Overall, AI acted more like a helper than a replacement for my own work.
+I used ChatGPT consistently during my final project for both coding and non-coding tasks. My usual process was to explain the issue, paste the GitHub issue description, include relevant files, and add error messages if something was not working. For example, I might ask, "Here is my current code`<current code here>` and here is my end goal:`<issue description here>`. I am getting this error `<error message>`. What should I do?" AI typically accounted for half or less than half of the total effort on an issue. Most generated code required manual edits before being added to the project. Only one response, related to adding an inline edit feature for vendor ingredients, was used mostly as-is. Overall, AI acted more like a helper than a replacement for my own work.
 
 ### 6. Learning a Concept or Tutorial
 
