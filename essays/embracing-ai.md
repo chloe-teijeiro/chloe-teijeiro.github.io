@@ -18,7 +18,7 @@ Artificial intelligence (AI) has quickly become part of everyday learning, espec
 
 ### 1. Experience WODs
 
-For Experience WODs, I rarely used AI. When I did use it, it was usually during my first attempts and only to help clarify what the instructions were asking me to do or how to get started. For example, I would sometimes ask ChatGPT something like, “Here are the WOD instructions `<WOD instructions>`. Can you explain what step 4 is asking me to do in simpler terms?”
+For Experience WODs, I rarely used AI. When I did use it, it was usually during my first attempts and only to help clarify what the instructions were asking me to do or how to get started. For example, I would sometimes ask ChatGPT something like, “Here are the WOD instructions \<WOD instructions\>. Can you explain what step 4 is asking me to do in simpler terms?”
 
 However, I tried not to rely on AI during Experience WODs. My goal was to complete these WODs in an average time without AI so that I would be better prepared for in-class WODs, where time pressure is much higher. I also found that watching the instructional videos after my first attempt was more helpful than using AI, since the videos showed the steps visually and in order. Overall, AI was somewhat useful for clarification, but I intentionally limited its use because I wanted to build confidence in my own understanding first.
 
