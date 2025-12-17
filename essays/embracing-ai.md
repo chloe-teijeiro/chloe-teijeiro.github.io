@@ -57,7 +57,7 @@ I only asked one question in the smart-questions channel and did not use AI for 
 
 ### 9. Coding Examples
 
-I used AI once when learning functional programming. I asked something like, “Give me a TypeScript coding example that uses .reduce.” While this helped a little, it was less useful than I expected, and I still needed other resources to fully understand the concept.
+I used AI once when learning functional programming. I asked something like, “Give me a TypeScript coding example that uses `.reduce`.” While this helped a little, it was less useful than I expected, and I still needed other resources to fully understand the concept.
 
 ### 10. Explaining Code
 
