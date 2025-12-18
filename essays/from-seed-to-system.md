@@ -11,7 +11,7 @@ labels:
   - Software Engineering Reflection
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/flower-growth.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/flower-growth.jpg">
 
 ## Planting the Seeds
 
