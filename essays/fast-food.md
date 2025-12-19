@@ -11,7 +11,7 @@ labels:
   - Math and Coding Similarities
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/happy-meal.webp">
+<img width="300px" class="rounded float-start pe-4" src="../img/happy-meal.webp">
 
 We live in a world that moves quickly, where results are expected almost instantly. From fast food to online shopping, instant gratification is what people want. But it’s the path for getting to that point that interests me. Creating efficiency is a process of identifying variables and providing solutions. It’s defining the procedure and creating the mechanism to achieve it. Coding is simply another way to use logic to streamline a function.
 
