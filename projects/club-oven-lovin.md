@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/club-oven-lovin/club-oven-lovin-logo.png
 title: "Club Oven Lovin’"
-date: 2025
+date: 2025-12-13
 published: true
 labels:
   - Web Development
