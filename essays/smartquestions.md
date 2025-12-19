@@ -16,6 +16,8 @@ I decided to go with this acronym because I think that it matches both the essay
 
 The example that I found on Stack Overflow is what I would call a Lazy Question. The user writes, “I'm stuck on an assignment question. How do I make my code work?” and attaches a segment of code. While they do label the code as JavaScript, they don’t tell you the result they’re expecting or what they’re currently getting. They don’t show that any effort has been made to solve the problem other than posting the question. I can see how someone would look at this question and decide to ignore it.
 
+
+
 You can view this example [here](https://stackoverflow.com/questions/37185851/im-not-sure-why-my-code-doesnt-work).
 
 ## Pucker up!

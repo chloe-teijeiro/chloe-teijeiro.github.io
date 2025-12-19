@@ -17,7 +17,7 @@ I look at coding standards like learning a foreign language. Just as grammar and
 
 This is my first week using ESLint with VSCode, and so far, I like it. One feature that stands out is that with VSCode, I don’t have to switch between multiple screens. I can have a TypeScript file, an HTML file, a terminal window, and even a live preview of HTML output, all within the same window. Another thing I like is that ESLint shows you exactly where errors are and explains them with clear and easy-to-understand messages. Being able to correct the errors as they occur is allowing me to see the correlation between code and structure. It feels like ESLint is more of a teacher, guiding me through the rules of coding. 
 
-<div align="center">
+<div style="text-align: center;">
   <img width="600px" src="../img/coding-standards/ESLint-error.png">
 </div>
 
