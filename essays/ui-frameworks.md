@@ -17,8 +17,8 @@ When I first heard about UI frameworks like Bootstrap 5, I was both excited and 
 Below are two images of a webpage I built using Bootstrap 5 as I worked on rebuilding a subset of the Star Wars homepage. This experience really showed me how UI frameworks like Bootstrap can make complex layouts possible, even for beginners, but they still come with a learning curve. At the top of my page is a navigation bar that includes several icons like TikTok, YouTube, Instagram, and more, as well as an image serving as a fake link to Star Wars Kids. On the right side of the navbar, I added a search icon with text and a login section. The main menu items below the navbar have hover effects, with most also featuring dropdowns. While Bootstrap made these features easier to implement, it still took time to understand how the components and classes worked together. Trying to build all these features from scratch using just raw HTML and CSS would have taken much longer, especially for the dropdown menus and hover effects. The footer was the hardest part; aligning the icons and text in one centered line took multiple attempts, but it showed me how precise Bootstrap can be when you use it correctly.
 
 <div align="center">
-  <img width="500px" src="../img/star-wars-homepage-recreation-p1.png">
-  <img width="500px" src="../img/star-wars-homepage-recreation-p2.png">
+  <img width="500px" src="../img/ui-frameworks/star-wars-homepage-recreation-p1.png">
+  <img width="500px" src="../img/ui-frameworks/star-wars-homepage-recreation-p2.png">
 </div>
 
 ## From Padawan to Page Builder

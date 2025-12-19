@@ -13,8 +13,8 @@ summary: "Web Application for students to share and discover recipes and manage 
 ---
 
 <div class="text-center p-4">
-  <img width="350px" src="../img/club-oven-lovin/user-profile-page.png">
-  <img width="350px" src="../img/club-oven-lovin/vendor-page.png">
+  <img width="400px" src="../img/club-oven-lovin/user-profile-page.png">
+  <img width="400px" src="../img/club-oven-lovin/vendor-page.png">
 </div>
 
 Club Oven Lovin’ is a group project that focuses on building a web-based platform to help college students discover, share, and manage simple home-cooked meals. The application allows users to browse recipes by name, ingredients, tags, or dietary restrictions, making it easier to find meals that match personal needs. Students can contribute their own recipes, leave reviews, and interact with content created by other users. Vendors can manage ingredient information such as pricing and availability, while admins oversee site content. The overall goal of this project is to give students with limited resources practical access to nutritious cooking while encouraging the use of locally available food options.
