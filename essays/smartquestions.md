@@ -16,13 +16,19 @@ I decided to go with this acronym because I think that it matches both the essay
 
 The example that I found on Stack Overflow is what I would call a Lazy Question. The user writes, “I'm stuck on an assignment question. How do I make my code work?” and attaches a segment of code. While they do label the code as JavaScript, they don’t tell you the result they’re expecting or what they’re currently getting. They don’t show that any effort has been made to solve the problem other than posting the question. I can see how someone would look at this question and decide to ignore it.
 
-
+<div style="text-align: center;">
+  <img width="400px" src="../img/smartquestions/bad-example.png">
+</div>
 
 You can view this example [here](https://stackoverflow.com/questions/37185851/im-not-sure-why-my-code-doesnt-work).
 
 ## Pucker up!
 
 The example I found for a smart question gets straight to the point: “Java Lambda method reference not working”. They include the original code, explain how they tried to fix it, and show the resulting error message. They label all the relevant information and end with an anticipatory  “thank you”. They keep it simple, make their point clearly, and are polite as well. I can see how someone would look at this question and want to help, feeling that their input will be appreciated.
+
+<div style="text-align: center;">
+  <img width="400px" src="../img/smartquestions/good-example.png">
+</div>
 
 You can view this example [here](https://stackoverflow.com/questions/33938594/java-lambda-method-reference-not-working).
 
