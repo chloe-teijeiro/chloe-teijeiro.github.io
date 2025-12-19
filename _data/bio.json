@@ -21,11 +21,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": ["Java", "Python" ]
+      "keywords": [ "Java", "Python", "TypeScript", "React", "Next.js", "Bootstrap 5" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows 11", "Git/GitHub" ]
+      "keywords": [ "Windows 11", "Git/GitHub", "VS Code", "Vercel" ]
     }
   ],
   "education": [

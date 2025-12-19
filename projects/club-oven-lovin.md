@@ -7,7 +7,7 @@ date: 2025-12-13
 published: true
 labels:
   - Web Development
-  - Nextjs
+  - Next.js
   - Vercel
 summary: "Web Application for students to share and discover recipes and manage profiles."
 ---
